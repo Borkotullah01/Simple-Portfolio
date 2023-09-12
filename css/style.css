@@ -70,14 +70,14 @@ p{
     scale: 1.03;
 }
 .header img{
-    width: 100%;
+    width: 380px;
     padding-left: 5rem;
 }
 /* header section end here */
 
 /* About section start*/
 .about img{
-    width: 100%;
+    width: 350px;
 }
 .about p{
     width: 100%;
@@ -85,7 +85,7 @@ p{
     padding: 2rem 0;
 }
 .about .col:last-child{
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 /* About section end */
 
